@@ -1,5 +1,4 @@
 #have user input rock, paper, or siccors and then use random generator for rock, paper, scissors
-#Maybe use while loop and use less lines of code
 
 import random
 
